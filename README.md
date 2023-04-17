@@ -5,7 +5,11 @@ A pretrained model is made and can be used as you please. However, the current m
 Accuracy on the final output : 0.96 
 
 # Libraries and Modules used
-Numpy, Pandas, Matplotlib, Seaborn and scikit-learn
+Numpy
+Pandas
+Matplotlib 
+Seaborn
+scikit-learn
 
 # Dataset 
 The dataset can be downloaded directly available from the repository
